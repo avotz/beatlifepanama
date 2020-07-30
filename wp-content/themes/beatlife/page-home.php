@@ -16,6 +16,7 @@
 get_header(); ?>
     
 	<div class="player">
+      test
       <div class="player-container">
        <?php dynamic_sidebar('sidebar-player'); ?>
 
