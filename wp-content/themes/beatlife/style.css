@@ -1397,7 +1397,6 @@ body.home .header-logo {
 .banner-logo {
   display: inline-block;
   max-width: 450px;
-  margin-bottom: 1rem;
 }
 .banner-container {
   height: 100vh;
@@ -1446,7 +1445,7 @@ body.home .header-logo {
 }
 .player {
   max-width: 400px;
-  margin: 1rem auto 0.5rem auto;
+  margin: 0 auto;
 }
 .player-mobile {
   text-align: center;
