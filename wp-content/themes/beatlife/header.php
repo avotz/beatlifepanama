@@ -32,7 +32,7 @@
 			    
                 <div class="header-contact">
                   <!-- <a href="http://ondabravaradio.com/" title="Ondabrava Radio" class="icon-ondabrava"><img src="<?php echo get_template_directory_uri(); ?>/img/icon-ondabrava.png" alt="Ondabrava Radio"></a> -->
-				   <a href="https://mytuner-radio.com/radio/beat-life-panama-449724" title="my tuner radio" class="icon-tuner-radio"><img src="<?php echo get_template_directory_uri(); ?>/img/my-tunerradio.png" alt="my-tuner-radio"></a>
+				   <a href="https://mytuner-radio.com/radio/beat-life-panama-449724" title="my tuner radio" class="icon-tuner-radio"><img src="<?php echo get_template_directory_uri(); ?>/img/mytunner2.png" alt="my-tuner-radio"></a>
 				  <a href="https://www.facebook.com/beatlifepanama"><i class="fa fa-facebook"></i></a>
                   <a href="https://twitter.com/beatpanama"><i class="fa fa-twitter"></i></a>
                   <a href="https://www.instagram.com/beatlifepanama"><i class="fa fa-instagram"></i></a>
