@@ -1396,7 +1396,12 @@ body.home .header-logo {
 }
 .banner-logo {
   background-color: #fff;
-  display: inline-block;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
   border-radius: 50%;
   max-width: 370px;
   max-height: 370px;
