@@ -1395,19 +1395,9 @@ body.home .header-logo {
   height: 100vh;
 }
 .banner-logo {
-  background-color: #fff;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: box;
-  display: flex;
-  border-radius: 50%;
-  max-width: 370px;
-  max-height: 370px;
-  height: 370px;
+  display: inline-block;
+  max-width: 450px;
   margin-bottom: 1rem;
-  padding: 3rem 3rem;
 }
 .banner-container {
   height: 100vh;
@@ -1456,7 +1446,7 @@ body.home .header-logo {
 .player {
   position: absolute;
   left: 50%;
-  top: 62%;
+  top: 58%;
   max-width: 400px;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
