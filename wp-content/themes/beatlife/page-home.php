@@ -37,7 +37,7 @@ get_header(); ?>
       <div class="banner-info">
         <div class="banner-logo">
 
-          <img src="<?php echo get_template_directory_uri(); ?>/img/logo-circle.png">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/logo-bl2020.png">
         </div>
         <div class="banner-anuncios">
 
