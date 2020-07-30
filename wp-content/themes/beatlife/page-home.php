@@ -15,21 +15,7 @@
 
 get_header(); ?>
 
-<div class="player">
 
-  <div class="player-container">
-    <?php dynamic_sidebar('sidebar-player'); ?>
-
-    <span class="text-play">Dale play para escuchar <i class="fa fa-play"></i></span>
-    <div id="player">
-      <audio controls preload="none" autoplay class="player-mobile">
-        <source src="http://167.114.210.232:8113/;" type="audio/aac"></audio>
-
-
-    </div>
-
-  </div>
-</div>
 <div class="main">
 
   <div class="banner">
@@ -96,6 +82,22 @@ get_header(); ?>
           <?php
           }
           ?>
+        </div>
+
+        <div class="player">
+
+          <div class="player-container">
+            <?php dynamic_sidebar('sidebar-player'); ?>
+
+            <span class="text-play">Dale play para escuchar <i class="fa fa-play"></i></span>
+            <div id="player">
+              <audio controls preload="none" autoplay class="player-mobile">
+                <source src="http://167.114.210.232:8113/;" type="audio/aac"></audio>
+
+
+            </div>
+
+          </div>
         </div>
 
       </div>
