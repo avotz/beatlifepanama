@@ -33,7 +33,7 @@ get_header(); ?>
             <span class="text-play">Dale play para escuchar <i class="fa fa-play"></i></span>
             <div id="player">
               <audio controls preload="none" autoplay class="player-mobile">
-                <source src="http://167.114.210.232:8113/;" type="audio/aac"></audio>
+                <source src="https://cast4.asurahosting.com/proxy/ondabra2/stream" type="audio/aac"></audio>
 
 
             </div>
